@@ -69,3 +69,7 @@ Aspiring Data Analyst | Excel | SQL | Python
 
 ---
 This project was developed for learning and demonstrating foundational data analysis and visualization skills using Microsoft Excel.
+
+📊 Dashboard Preview
+
+![Sales Performance Dashboard](dashboard.png)
